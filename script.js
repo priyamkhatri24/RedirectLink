@@ -24,7 +24,7 @@ function iOS() {
 }
 
 if (iOS()) {
-  window.location.href = "https://www.apple.com/in/";
+  window.location.href = "https://apps.apple.com/in/app/zee5-movies-web-series-shows/id743691886";
 } else {
   window.location.href = "https://play.google.com/store/apps/details?id=com.mohit.ingenium.invincible";
 }
